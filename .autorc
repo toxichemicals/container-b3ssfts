@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "toxichemicals",
+  "repo": "container-b3ssfts",
+  "name": "toxichemicals",
+  "email": "toxichemicals@proton.me",
+}
